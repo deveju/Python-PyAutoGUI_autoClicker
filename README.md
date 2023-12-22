@@ -1,6 +1,5 @@
-# pyAutoGUI-autoClicker
-**Create a python auto-clicker!**
-### Installing PyAutoGUI into Visual Studio Code:
+## **Create a python auto-clicker!**
+### ▣ Installing PyAutoGUI into Visual Studio Code:
 - Open the Visual Studio Code terminal and type:
 ```bash
 pip install pyautogui
